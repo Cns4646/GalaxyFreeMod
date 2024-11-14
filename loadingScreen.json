@@ -1,7 +1,7 @@
 {
   "appUpdate": {
     "title": "Update is now available.",
-    "updateVersion": 1.0,
+    "updateVersion": 1.1,
     "description": "ဘာမှမပြောင်းထားပါ",
     "downloadLink": "https://www.google.com",
     "setCancelable": false,
@@ -10,7 +10,7 @@
     "buttonTwoType": "Exit"
   },
   "appStatus": {
-    "toEnter": false,
+    "toEnter": true,
     "message": "App ရဲ့ လိုအပ်ချက်များ အရ Server Update အနေနဲ့ လုပ်ပေးနေသဖြင့် ဝင်လိုမရသေးပါခင်ဗျာ",
     "buttonText":"Exit"
   }
