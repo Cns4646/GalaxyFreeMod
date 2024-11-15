@@ -1,7 +1,7 @@
 [
   {
-    "GameName": "Game2",
-    "gameImage": "",
+    "GameName": "Game1",
+    "gameImage": "https://i.ibb.co/xHPWdG1/kjj-2.png",
     "gameStatus": "true",
     "message": "ကျွန်တော်တို့ Admin များဖက်က ယခုGameကို ယာယီပိတ်ထားပါသည်။",
     "Key": "GameOne",
@@ -9,7 +9,7 @@
   },
   {
     "GameName": "Game2",
-    "gameImage": "",
+    "gameImage": "https://i.ibb.co/pQPc2wW/kjj-1.png",
     "gameStatus": "true",
     "message": "ကျွန်တော်တို့ Admin များဖက်က ယခုGameကို ယာယီပိတ်ထားပါသည်။",
     "Key": "GameTwo",
