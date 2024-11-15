@@ -5,7 +5,7 @@
     "gameStatus": "true",
     "message": "ကျွန်တော်တို့ Admin များဖက်က ယခုGameကို ယာယီပိတ်ထားပါသည်။",
     "Key": "GameOne",
-    "/key": "GameOne"
+    "Tkey": "GameOne"
   },
   {
     "GameName": "Game2",
@@ -13,6 +13,6 @@
     "gameStatus": "true",
     "message": "ကျွန်တော်တို့ Admin များဖက်က ယခုGameကို ယာယီပိတ်ထားပါသည်။",
     "Key": "GameTwo",
-    "/key": "GameTwo"
+    "Tkey": "GameTwo"
   }
 ]
