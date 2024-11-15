@@ -1,10 +1,18 @@
 [
   {
-    "GameName": "Games1",
+    "GameName": "Game2",
     "gameImage": "",
     "gameStatus": "true",
     "message": "ကျွန်တော်တို့ Admin များဖက်က ယခုGameကို ယာယီပိတ်ထားပါသည်။",
     "Key": "GameOne",
     "/key": "GameOne"
+  },
+  {
+    "GameName": "Game2",
+    "gameImage": "",
+    "gameStatus": "true",
+    "message": "ကျွန်တော်တို့ Admin များဖက်က ယခုGameကို ယာယီပိတ်ထားပါသည်။",
+    "Key": "GameTwo",
+    "/key": "GameTwo"
   }
 ]
