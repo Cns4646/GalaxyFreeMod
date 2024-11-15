@@ -1,7 +1,8 @@
 [
   {
-    "title": "40MB",
+    "title": "2750MB",
     "validity": "7Days",
-    "points": "1000"
+    "points": "1000",
+    "rewardCode": "DATA_2750MB"
   }
 ]
