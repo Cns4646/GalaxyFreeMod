@@ -1,6 +1,6 @@
 [
   {
-    "GameName": "Game1",
+    "gameName": "Game1",
     "gameImage": "https://i.ibb.co/xHPWdG1/kjj-2.png",
     "gameStatus": true,
     "message": "",
@@ -8,7 +8,7 @@
     "Tkey": "GameOne"
   },
   {
-    "GameName": "Game2",
+    "gameName": "Game2",
     "gameImage": "https://i.ibb.co/pQPc2wW/kjj-1.png",
     "gameStatus": true,
     "message": "",
